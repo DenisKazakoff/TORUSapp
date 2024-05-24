@@ -1,2 +1,2 @@
-# TORUSapp
+# TORUSuite
 may be later
